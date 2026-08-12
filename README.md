@@ -39,10 +39,6 @@ Mobile application for creating structured reports from photos and generating pr
 **[Smarketing](https://github.com/RoniTwito08/Smarketing-final)**
 Full-stack marketing platform for managing and optimizing Google Ads campaigns using data-driven insights.
 
-### 🎯 Currently
-
-Focused on **NLP, LLMs, deep learning and AI-powered applications**, while continuing to build full-stack and mobile products.
-
 ### 🔗 Connect
 
 [Portfolio](https://ronitwitoportfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/roni-twito-990349255/)

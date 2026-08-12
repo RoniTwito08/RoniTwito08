@@ -6,6 +6,8 @@ I'm a software engineer and M.Sc. Computer Science student specializing in **Art
 
 I enjoy building complete products, from mobile and web applications to backend systems and AI powered features with a focus on turning ideas into real, working software.
 
+**Open to Software Engineering, Full-Stack and AI/ML opportunities.**
+
 ### 🛠 Tech Stack
 
 **Languages**
@@ -25,23 +27,21 @@ PostgreSQL · MongoDB · MySQL · Git · Docker
 
 ### 🚀 Featured Work
 
-**TherapyAI**
+**[TherapyAI](https://github.com/RoniTwito08/Therapy-AI)**
 AI powered mobile platform for therapists, combining session recording, transcription, AI generated summaries and patient management.
 
-**WhatsApp Behavioral Analysis**
-NLP and behavioral analysis system for detecting changes in user interest from WhatsApp conversations using Transformers, behavioral features and machine learning.
+**[WhatsApp Behavioral Analysis](https://github.com/RoniTwito08/whatsapp-emotion-analysis)**
+NLP and behavioral analysis system for early detection of interest shifts in WhatsApp conversations using Transformers, behavioral features and machine learning.
 
-**Dohot**
+**[Dohot](https://github.com/RoniTwito08/Dohot)**
 Mobile application for creating structured reports from photos and generating professional PDF documents.
 
-**Smarketing**
-Full-stack marketing platform for managing and optimizing Google Ads campaigns using data driven insights.
+**[Smarketing](https://github.com/RoniTwito08/Smarketing-final)**
+Full-stack marketing platform for managing and optimizing Google Ads campaigns using data-driven insights.
 
-### 🎓 Currently
+### 🎯 Currently
 
-* M.Sc. Computer Science — Artificial Intelligence & Algorithms
-* Exploring NLP, LLMs, deep learning and AI powered applications
-* Building full-stack and mobile products
+Focused on **NLP, LLMs, deep learning and AI-powered applications**, while continuing to build full-stack and mobile products.
 
 ### 🔗 Connect
 
